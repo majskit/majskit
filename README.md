@@ -1,10 +1,10 @@
 
-# 👋 Hi there!
+## 👋 Hi there!
 
-- 🌱 I’m a **Full Stack Developer** with a focus on **Frontend Development**, particularly **React**, **JavaScript**, **HTML**, and **CSS**.   
-- 💞️ Recently started exploring **React Native** and mobile development.  
-- ✨ Building interactive web applications and mobile apps while improving my backend skills with **Node.js** and **Express**.  
-- 👀 Always eager to learn new things and grow as a developer.  
+ 🌱 I’m a **Full Stack Developer** with a focus on **Frontend Development**, particularly **React**, **Next.js**  
+ 💞️ Recently started exploring **React Native** and mobile development.  
+ ✨ Building interactive web applications and mobile apps while improving my backend skills with **Node.js** and **Express**.  
+ 👀 Always eager to learn new things and grow as a developer.  
 
 
 <!---
