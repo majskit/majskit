@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+💻 Software developer with a foundation in full-stack JavaScript and cloud technologies.   
+☁️ AWS re/Start graduate learning cloud infrastructure, Linux and networking fundamentals.  
+⚙️ Building practical projects with JavaScript, Node.js, React and AWS services.  
+📚 Exploring backend development, AI and automation while continuously improving my technical skills.  
+
+🔭 Always curious, always learning. 
 
 <!--
 **majskit/majskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
