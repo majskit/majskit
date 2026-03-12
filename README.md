@@ -1,25 +1,11 @@
-### 🌐 My Portfolio
-
-<a href="https://portfolio-majskits-projects.vercel.app">
-  <img src="preview.webp" alt="Portfolio Preview" width="600">
-</a>
-
----
-
 ### Hi there 👋
 
 💻 **Software developer** passionate about building cool things with code.   
-
 ☁️ AWS re/Start graduate with a foundation in **cloud technologies**.  
-
-🧩 Building projects with **JavaScript**, **Node.js**, **React** and **AWS services**.  
-
 🤖 Exploring **AI**, **automation**, and 🐍**Python** through continuous self-learning.  
-
 🔭 Always **curious**, always 🧠 **learning**. 
 
 ---
-
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,6 +17,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+---
+### 🌐 My Portfolio
+
+<a href="https://portfolio-majskits-projects.vercel.app">
+  <img src="preview.webp" alt="Portfolio Preview" width="300">
+</a>
 ---
 
 ### 🏆 Certifications
