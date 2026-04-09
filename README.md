@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-💻 **Software developer** passionate about building cool things with code.   
-☁️ **AWS re/Start graduate** with a foundation in **Cloud Services**.  
-🤖 Exploring **AI**, **automation**, and ☕ **Java** through continuous self-learning.  
-🔭 Always **curious**, always 🧠 **learning**. 
+💻 **Software Developer** currently transitioning into **Java and backend development**.   
+☁️ **AWS re/Start graduate** with hands-on experience in **Cloud Services and infrastructure**.  
+🤖 Exploring **AI** and **automation**   
+🔭 Always **curious**, always **learning**. 
 
 ---
 ### 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
