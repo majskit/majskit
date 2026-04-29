@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-💻 **Software Developer** currently transitioning into **Java and backend development**.   
-☁️ **AWS re/Start graduate** with hands-on experience in **Cloud Services and infrastructure**.  
-🤖 Exploring **AI** and **automation**   
+💻  Building, testing, fixing, and deploying: **repeat( )**  
+☁️ **AWS re/Start graduate**  
+🤖 Exploring **AI**, **automation**, and **Java**   
 🔭 Always **curious**, always **learning**. 
+
+
 
 ---
 ### 🛠️ Tech Stack
